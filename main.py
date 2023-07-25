@@ -10,7 +10,7 @@ class Comment:
         self.votes_qty = 0
 
 
-my_comment = Comment("My comment")
+my_comment = Comment("My comm")
 
 print(my_comment.votes_qty)
 
